@@ -58,3 +58,10 @@ a, a:hover {
 #accordion .card-header:hover {
     cursor: pointer;
 }
+
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
